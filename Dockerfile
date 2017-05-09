@@ -1,3 +1,3 @@
-FROM kuandd.piling.localhost:1.0
+FROM kuandd.piling.localhost
 
 MAINTAINER kuandd <sanye@kuandd>
